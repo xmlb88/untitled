@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wenwei/CLionProjects/untitled/Sales_data.h
+string
+-
+
+/Users/wenwei/CLionProjects/untitled/sizeof.cpp
+iostream
+-
+Sales_data.h
+/Users/wenwei/CLionProjects/untitled/Sales_data.h
+

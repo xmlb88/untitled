@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.17)
+project(untitled)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(untitled main.cpp)
+add_executable(testConst testConst.cpp file_1.cc file_1.h)
+add_executable(pointToConst pointToConst.cpp)
+add_executable(sizeof sizeof.cpp)
+add_executable(4_11 4_11.cpp)
+add_executable(ifelse 5/ifelse.cpp)
+add_executable(switch 5/switch.cpp)
+add_executable(rangefor 5/rangefor.cpp)
+add_executable(throw 5/throw.cpp)
+add_executable(divide 5/divide.cpp)

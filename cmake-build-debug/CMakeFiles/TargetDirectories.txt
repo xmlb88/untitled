@@ -1,0 +1,12 @@
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/divide.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rangefor.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/switch.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/4_11.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/throw.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/pointToConst.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/sizeof.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ifelse.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/testConst.dir
+/Users/wenwei/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir
